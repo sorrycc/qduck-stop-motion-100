@@ -1,0 +1,14 @@
+{
+  "id": "040",
+  "slug": "robot-led",
+  "title": "机器人眨灯",
+  "style": "small yellow retro robot head, enamel metal panels, soft amber LEDs, off-white lab set",
+  "beats": [
+    "A small orange indicator in the cheek lights up",
+    "Three tiny antenna lights blink in sequence",
+    "The cheek panel opens a few millimeters",
+    "A miniature orange bulb peeks out and nods",
+    "The bulb retracts and panel closes",
+    "All lights return to their original steady state"
+  ]
+}

@@ -1,0 +1,18 @@
+Create ONE square sprite sheet containing EXACTLY 36 consecutive animation frames in EXACTLY SIX columns and SIX rows. Each cell is an equal square. Perfect mathematical 6x6 grid, no gaps, borders, labels, numbers or text; it will be sliced at exact sixths. Output 1254x1254 or higher square resolution divisible by six. This is a 3-second stop-motion loop, in left-to-right then top-to-bottom reading order, 12 fps.
+
+REFERENCE 1 supplies ONLY character identity: round sunny-yellow face, three short tufts, ONE continuous thick curved black UNIBROW positioned ABOVE TWO separate black oval EYES, vivid orange oval cheek at lower viewer-right. Retain this face throughout. REFERENCE 2 supplies ONLY the 6x6 grid and frame-to-frame continuity, NOT its clay material or bouncing-ball story. Apply the NEW STYLE and ACTION below.
+
+ACTION IS THE PRIORITY. Give the performance anticipation, a clear main action, a small amusing payoff, and physical recovery. Each consecutive cell must move the action forward by a small but visible step. Main movement must read clearly at thumbnail size: prop travel about 15-25% of a cell, head reactions around 5-10 degrees of tilt or a small hop; squishy materials may compress 8-12% before springing back. Rigid materials should rock and rotate rather than melt. The yellow character should visibly react to the prop, not remain a static pasted face while only a tiny dot changes. Use arcs, weight, squash/stretch appropriate to material, overshoot and settling. Keep story simple, just one main action and a tiny surprise. Do not turn this into six unrelated scenes.
+
+SAME fixed front camera, lighting, background and base scale across all 36 cells. Face around 50-55% of cell width, resting center x=46%, bottom y=80%; ample safe margin around head and props, no cell-boundary crossing. No motion blur, dissolve, labels, letters or signage. No duplicated still panels. Both eyes and the UNIBROW must remain present in EVERY FRAME, even while head tilts; avoid blinks so eyebrow cannot vanish. Unless story uses separate props, orange cheek is a SINGLE piece: if detached it must not also remain on the face. No extra arms, body or legs on the main mascot. 
+
+VISUAL STYLE: frosted ice sculpture with trapped golden tint, snow powder stage, icy blue light. Make this material/style distinct and unmistakable throughout.
+
+ACTION CONCEPT: 冰晶雪花.
+ROW 1 = frames 1-6: A little orange ice crystal forms at the cheek. Show six progressive poses through this beat; no scene cut at row boundaries.
+ROW 2 = frames 7-12: It floats away as frost gathers. Show six progressive poses through this beat; no scene cut at row boundaries.
+ROW 3 = frames 13-18: Six frost branches grow into a snowflake. Show six progressive poses through this beat; no scene cut at row boundaries.
+ROW 4 = frames 19-24: The snowflake rotates once in the air. Show six progressive poses through this beat; no scene cut at row boundaries.
+ROW 5 = frames 25-30: It melts into one glowing orange droplet. Show six progressive poses through this beat; no scene cut at row boundaries.
+ROW 6 = frames 31-36: The droplet returns to the cheek and freezes. Show six progressive poses through this beat; no scene cut at row boundaries.
+Final cell returns very close to opening pose for a loop. Exactly 6 rows and 6 columns, all 36 tiles filled with one consistent character performing this movement.

@@ -1,0 +1,9 @@
+{
+  "local_preview_url": "http://127.0.0.1:8768/index.html",
+  "checks": [
+    "Gallery rendered generated case cards and GIF images in Codex browser",
+    "Typing 001 into search left exactly the 001 card visible",
+    "Clicking GIF opened the actual 209x209 animated image"
+  ],
+  "scope": "Mid-batch functional check; final gallery count checked separately after all cases complete"
+}

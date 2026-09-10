@@ -1,0 +1,14 @@
+{
+  "id": "015",
+  "slug": "pixel-coin",
+  "title": "像素金币",
+  "style": "8-bit pixel art with strict chunky square pixels, limited golden palette, pale arcade backdrop",
+  "beats": [
+    "An orange pixel coin rises from the cheek",
+    "It rotates from face-on to edge-on",
+    "The face makes a tiny blocky hop",
+    "The coin spins overhead with three square sparkles",
+    "It drops back toward the cheek",
+    "It locks into the original orange pixel patch"
+  ]
+}

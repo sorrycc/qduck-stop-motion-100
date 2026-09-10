@@ -1,0 +1,374 @@
+{
+  "001": {
+    "status": "approved",
+    "notes": "6x6; needle-felt fibers; sniff/sneeze, seed orbit, regather; head reacts."
+  },
+  "002": {
+    "status": "approved",
+    "notes": "6x6; folded-paper facets; plane folds, launches, loops and returns; head tracks it."
+  },
+  "003": {
+    "status": "approved",
+    "notes": "6x6; porcelain glaze and cup; steam crown grows, head bows, steam returns."
+  },
+  "007": {
+    "status": "approved",
+    "notes": "6x6 with fine separators; crochet stitches; yarn ball rolls, heart loop forms, rewinds."
+  },
+  "006": {
+    "status": "approved",
+    "notes": "6x6; gingerbread edge and icing; frosting extrudes, coils into rosette and retracts."
+  },
+  "008": {
+    "status": "approved",
+    "notes": "6x6; quilled paper coils; loops become flower, rotate and recoil."
+  },
+  "009": {
+    "status": "approved",
+    "notes": "6x6; worn tin and winding key; key turns, face rocks, gear opens and retracts."
+  },
+  "005": {
+    "status": "approved",
+    "notes": "6x6; carved wood facets; acorn rolls in, cap lands on tuft, falls back and exits."
+  },
+  "010": {
+    "status": "approved",
+    "notes": "6x6; frosted ice; crystal rises, rotates, melts into droplet and returns."
+  },
+  "011": {
+    "status": "approved",
+    "notes": "6x6; glossy balloon material; orange part stretches, twists into heart, bobs and untwists."
+  },
+  "014": {
+    "status": "approved",
+    "notes": "6x6; desert clay and sand; cactus grows, blooms, bows with head and shrinks."
+  },
+  "021": {
+    "status": "approved",
+    "notes": "6x6; pastel-paper treatment; cheek becomes butterfly, circles tufts, lands and folds."
+  },
+  "022": {
+    "status": "approved",
+    "notes": "6x6; risograph stippling; dots become confetti, orbit, stack and return; head bobs."
+  },
+  "004": {
+    "status": "approved",
+    "notes": "6x6; translucent amber bubbles; glowing firefly emerges, loops, reenters; dark set."
+  },
+  "012": {
+    "status": "approved",
+    "notes": "6x6; velvet pile; tuft becomes floppy cap, head bows, pompom swings, cap folds back."
+  },
+  "013": {
+    "status": "approved",
+    "notes": "6x6; leaded stained glass; sun disk brightens, rays unfold, orb circles head and returns."
+  },
+  "015": {
+    "status": "approved",
+    "notes": "6x6; chunky pixel style; coin rises and spins, head squashes and hops, coin returns."
+  },
+  "016": {
+    "status": "approved",
+    "notes": "6x6; watercolor wash; cloud rains, drops become petals, petals orbit and dissolve."
+  },
+  "027": {
+    "status": "approved",
+    "notes": "6x6; chocolate coating and cocoa dust; truffle rolls through cocoa, head nudges it home."
+  },
+  "029": {
+    "status": "approved",
+    "notes": "6x6; pasta ribbon with ruffled edges; ribbon ties bow, floats, unties and recoils."
+  },
+  "017": {
+    "status": "approved",
+    "notes": "6x6; ink bamboo on rice-paper wash; shoot grows, bends, red dew rolls and lands on cheek."
+  },
+  "018": {
+    "status": "approved",
+    "notes": "6x6; linocut grain; crescent detaches, rocks with stars, catches stars and returns."
+  },
+  "019": {
+    "status": "approved",
+    "notes": "6x6; chalk on slate; star draws itself, fills, face puffs it into dust and gathers it back."
+  },
+  "020": {
+    "status": "approved",
+    "notes": "6x6; waxy crayon strokes; cheek draws rainbow, head ducks under it, rainbow curls back."
+  },
+  "023": {
+    "status": "approved",
+    "notes": "6x6; backlit parchment/leather treatment; orange fish unfolds, swims over head, folds home."
+  },
+  "024": {
+    "status": "approved",
+    "notes": "6x6; rice grains, nori features and salmon texture; salmon curls around rice, roll rotates and unwraps."
+  },
+  "026": {
+    "status": "approved",
+    "notes": "6x6; translucent jelly; bubble rises through head, floats around it and sinks; soft wobble."
+  },
+  "028": {
+    "status": "approved",
+    "notes": "6x6; baked brioche crust; dough knot unfurls into flower, nods, folds and settles."
+  },
+  "030": {
+    "status": "approved",
+    "notes": "6x6; citrus rind texture; orange peel unrolls, coils into spring, bounces and flattens."
+  },
+  "031": {
+    "status": "approved",
+    "notes": "6x6; sugar-crystal facets; seed grows into crystal star, rotates, shrinks and joins cheek."
+  },
+  "025": {
+    "status": "approved",
+    "notes": "Clear cocoa-cushion bounce and marshmallow stretch; core yellow face and thick eyebrow preserved."
+  },
+  "032": {
+    "status": "approved",
+    "notes": "Meringue clouds expand and shrink around tilting face; readable small story and consistent identity."
+  },
+  "033": {
+    "status": "approved",
+    "notes": "Mini pancake flips above browned pancake face and settles; syrup motion and facial structure remain clear."
+  },
+  "035": {
+    "status": "approved",
+    "notes": "Kernel pops into fluffy popcorn, jumps and returns; distinct material and readable action."
+  },
+  "036": {
+    "status": "approved",
+    "notes": "Macaron lid opens around rising cream spiral, balances and closes; recognizable face retained."
+  },
+  "037": {
+    "status": "approved",
+    "notes": "Powdery mochi cheek stretches into a strand and recoils; strong material-driven motion."
+  },
+  "038": {
+    "status": "approved",
+    "notes": "Brass face unfolds orange compass pointer, rotates through directions and folds away; clear 6x6 sequence."
+  },
+  "039": {
+    "status": "approved",
+    "notes": "Coiled-wire face extends and compresses copper spring while leaning, then settles; identity consistent."
+  },
+  "040": {
+    "status": "approved",
+    "notes": "Enamel robot lights up, cheek hatch opens and a tiny lamp rises then retracts; clear miniature action."
+  },
+  "042": {
+    "status": "approved",
+    "notes": "Denim cheek zipper opens, fabric tongue unfolds and retracts, zipper closes; identity and material consistent."
+  },
+  "044": {
+    "status": "approved",
+    "notes": "Tweed button swings on its thread, loops up toward eyebrow and returns; clear physical sequence."
+  },
+  "045": {
+    "status": "approved",
+    "notes": "Embroidered thread grows into sunflower, sways with face tilt and retracts; consistent stitched material."
+  },
+  "034": {
+    "status": "approved",
+    "notes": "Cheese cheek opens a hole and releases orange ball, ball rolls across face then returns; yellow face and eyebrow stable."
+  },
+  "043": {
+    "status": "approved",
+    "notes": "Leather leaf lifts from cheek, floats over tuft and lands back while the face leans; clear small story and stitched material."
+  },
+  "049": {
+    "status": "approved",
+    "notes": "Painted pebble cheek detaches, hops and balances upright, then returns as face tracks it; clear stone-skipping motif."
+  },
+  "050": {
+    "status": "approved",
+    "notes": "Sandy tuft grows into turret and flag, shakes loose grains and collapses back; expressive eyes stay recognizable."
+  },
+  "052": {
+    "status": "approved",
+    "notes": "Succulent rosette unfolds from orange cheek, rotates as face tilts, and closes back into bud; coherent potted scene."
+  },
+  "053": {
+    "status": "approved",
+    "notes": "Autumn leaves swirl around tilting head, stack into cheek and settle; distinctive leaf surface and circular motion."
+  },
+  "054": {
+    "status": "approved",
+    "notes": "Shell cheek opens to reveal pearl, pearl bounces above it and is caught; consistent face and mosaic material."
+  },
+  "055": {
+    "status": "approved",
+    "notes": "Coral curl becomes seahorse, swims on bubbles and rejoins cheek; readable transformation and return."
+  },
+  "056": {
+    "status": "approved",
+    "notes": "Neon cheek glows and detaches into orbiting ring, travels around head and reconnects; strong light and rotation motif."
+  },
+  "041": {
+    "status": "approved",
+    "notes": "Knitted scarf extends from cheek, wraps around face, waves and hides a blink before unwrapping; recognizable yellow knitted character."
+  },
+  "046": {
+    "status": "approved",
+    "notes": "Pompom hops off tuft, becomes a tiny chick, bounces up cheek and rejoins tuft; clearly readable mini-story."
+  },
+  "047": {
+    "status": "approved",
+    "notes": "Woven bamboo cheek unfolds into fan, fans the face and folds closed; leaning response and woven texture consistent."
+  },
+  "048": {
+    "status": "approved",
+    "notes": "Cork cheek drops and opens into a tiny sailboat, rocks on indicated ripples, closes and returns."
+  },
+  "051": {
+    "status": "approved",
+    "notes": "Moss face watches mushroom grow, wink and spores puff, then mushroom shrinks; coherent woodland material and motion."
+  },
+  "057": {
+    "status": "approved",
+    "notes": "Holographic orange prism floats outward, spreads rainbow light and circles the head; golden identity retained through foil reflections."
+  },
+  "058": {
+    "status": "approved",
+    "notes": "Faceted cheek becomes kite, pulls the head into a lean and folds back; clear flight and return."
+  },
+  "059": {
+    "status": "approved",
+    "notes": "Voxel cheek builds steps; one cube hops upward and returns before steps collapse into cheek."
+  },
+  "060": {
+    "status": "approved",
+    "notes": "Orange clay meteor lifts from cheek, ignites a curved trail and orbits before returning; space setting coherent."
+  },
+  "061": {
+    "status": "approved",
+    "notes": "Cel-style face squashes, stretches and bounces; cheek elongates with a follow-through swing and settles."
+  },
+  "062": {
+    "status": "approved",
+    "notes": "Comic cheek inflates as a thought bubble with three dots, pops into small bubbles and rejoins; readable graphic action."
+  },
+  "063": {
+    "status": "approved",
+    "notes": "Rubber-hose crescent cheek swings up and over the head with exaggerated leaning, then returns."
+  },
+  "064": {
+    "status": "approved",
+    "notes": "Cubist face separates into three planes, reorients the thick eyebrow and orange geometric cheek, then reassembles."
+  },
+  "065": {
+    "status": "approved",
+    "notes": "Soft waxlike orange cheek sags into a puddle as head dips, then draws back into place; clear surreal melt action."
+  },
+  "066": {
+    "status": "approved",
+    "notes": "Tufted cheek unrolls a small rug, a pompom rolls along it, and the rug coils back."
+  },
+  "067": {
+    "status": "approved",
+    "notes": "Papier-mache cheek becomes a ringed planet, orbits the head and sheds its ring while returning."
+  },
+  "068": {
+    "status": "approved",
+    "notes": "Corrugated-cardboard cheek drawer opens; folded star pops up and retracts before drawer closes."
+  },
+  "069": {
+    "status": "approved",
+    "notes": "Printed book-page wings fold into a bird, flutter around face, perch on tuft and fold back; core identity retained."
+  },
+  "070": {
+    "status": "approved",
+    "notes": "Cheek unfolds into tiny paper houses, roofs and a sun rise and fall, then the city folds away."
+  },
+  "071": {
+    "status": "approved",
+    "notes": "Cut orange paper opens into a glowing lantern, sways with head movement and folds shut."
+  },
+  "072": {
+    "status": "approved",
+    "notes": "Thin tissue cheek lifts into a floating crumpled cloud, curls into a spiral and drifts back."
+  },
+  "073": {
+    "status": "approved",
+    "notes": "Torn paper wave rises with a little boat, crests as head leans and collapses into cheek; clear layered texture."
+  },
+  "074": {
+    "status": "approved",
+    "notes": "Magnetic triangles open, join into a pyramid, hover and unfold before reconnecting to cheek."
+  },
+  "075": {
+    "status": "approved",
+    "notes": "Character tips a short domino line, follows the fall and reset, then blocks retract; physical sequence readable."
+  },
+  "076": {
+    "status": "approved",
+    "notes": "Wooden marble track hinges open, orange marble rolls through its curve and returns as track closes."
+  },
+  "077": {
+    "status": "approved",
+    "notes": "Face expands into accordion folds and compresses again while the orange side disk lifts and lowers."
+  },
+  "078": {
+    "status": "approved",
+    "notes": "Plastic brick cheek extends and builds a flower, tilts and dismantles back into the face."
+  },
+  "079": {
+    "status": "approved",
+    "notes": "Rubber face bobs in water, blows a bubble that pops into a splash and settles among ripples."
+  },
+  "080": {
+    "status": "approved",
+    "notes": "Soap bubbles collect into a crown, wobble with a head tilt and pop back down toward cheek."
+  },
+  "081": {
+    "status": "approved",
+    "notes": "Beeswax cheek lights a flame, melts a drip and gradually extinguishes; yellow wax character stays recognizable."
+  },
+  "082": {
+    "status": "approved",
+    "notes": "Enamel cheek slides out on a pin, spins to show its gold reverse and clicks back into place."
+  },
+  "083": {
+    "status": "approved",
+    "notes": "Cloisonne cheek unfolds into a fan, changes colored enamel reflections while turning, then folds shut."
+  },
+  "084": {
+    "status": "approved",
+    "notes": "Orange geode cheek splits to reveal sparkling crystals, opens wide, tilts and closes."
+  },
+  "086": {
+    "status": "approved",
+    "notes": "Inside a snowglobe the orange sphere orbits the face, stirs glitter and settles back as snow falls."
+  },
+  "085": {
+    "status": "approved",
+    "notes": "Orange lava blob stretches upward inside glowing yellow glass, separates and merges back; clear liquid motion."
+  },
+  "087": {
+    "status": "approved",
+    "notes": "Orange cloud becomes a little sheep, hops over the head and returns as a cloud cheek; expressive head tracking."
+  },
+  "088": {
+    "status": "approved",
+    "notes": "Suede cheek becomes a feather, floats and tickles the tuft before returning; continuous feather drift."
+  },
+  "090": {
+    "status": "approved",
+    "notes": "Sequin cheek fans into a fish, flicks its tail and dissolves in sparkles back to cheek."
+  },
+  "091": {
+    "status": "approved",
+    "notes": "Felt comet sweeps above and around the head with trailing wool fibers, wraps around and returns."
+  },
+  "092": {
+    "status": "approved",
+    "notes": "Marquetry jigsaw pieces lift from the face and settle back with a rotating orange cheek; readable disassembly and recovery."
+  },
+  "093": {
+    "status": "approved",
+    "notes": "Clay cheek divides into windmill blades, rotates while the head leans and folds back together."
+  },
+  "095": {
+    "status": "approved",
+    "notes": "Moon-dust face jumps and lands, an orange stone arcs overhead and bounces into a crater; second hop briefly leaves the frame."
+  }
+}
